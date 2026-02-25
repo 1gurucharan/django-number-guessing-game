@@ -30,3 +30,21 @@ This project demonstrates **Django backend logic**, **session handling**, and a 
 ---
 
 ## 🏗️ Project Structure
+guessing_game/
+│
+├── game/
+│ ├── templates/
+│ │ └── game/
+│ │ └── index.html
+│ ├── views.py
+│ ├── urls.py
+│
+├── guessing_game/
+│ ├── settings.py
+│ ├── urls.py
+│
+└── manage.py
+
+
+
+--
